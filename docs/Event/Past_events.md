@@ -110,22 +110,26 @@ comments: true
     **比赛时间** : 2024年05月12日  09:00 - 2024年05月12日  17:00  
     **其他说明** : QQ1群:915263648 QQ2群:964202741  
     
-??? Quote "第二届数据安全大赛暨首届“数信杯”数据安全大赛"  
-    **比赛名称** : [第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)  
-    **比赛类型** : 团队赛|1-3人  
-    **报名时间** : 2023年11月15日 00:00 - 2024年04月30日 00:00  
-    **比赛时间** : 2024年05月01日 00:00 - 2024年05月02日 00:00  
-    **其他说明** : 比赛时间未定  
-    
-??? Quote "XYCTF高校新生联合赛 2024"  
-    **比赛名称** : [XYCTF高校新生联合赛 2024](https://www.xyctf.top/)  
-    **比赛类型** : 团队赛 | 1-3人  
-    **报名时间** : 2024年03月05日 10:00 - 2024年04月01日 09:00  
-    **比赛时间** : 2024年04月01日 10:00 - 2024年05月01日 10:00  
-    **其他说明** : 赛事群：798794707  
-    
 
 ## 国际赛事
+??? Quote "[DiceCTF 2024 Finals](https://ctf.dicega.ng/)"  
+    [![](https://ctftime.org/media/events/dicectf_2_1_1.png){ width="200" align=left }](https://ctf.dicega.ng/)  
+    **比赛名称** : [DiceCTF 2024 Finals](https://ctf.dicega.ng/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2024-06-29 22:00:00 - 2024-07-01 06:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
+    **添加日历** : https://ctftime.org/event/2306.ics  
+    
+??? Quote "[UIUCTF 2024](http://2024.uiuc.tf/)"  
+    [![](https://ctftime.org){ width="200" align=left }](http://2024.uiuc.tf/)  
+    **比赛名称** : [UIUCTF 2024](http://2024.uiuc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-06-29 08:00:00 - 2024-07-01 08:00:00 UTC+8  
+    **比赛权重** : 67.51  
+    **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
+    **添加日历** : https://ctftime.org/event/2275.ics  
+    
 ??? Quote "[The Hacker Conclave](http://ctf.thehackerconclave.es/)"  
     [![](https://ctftime.org/media/events/conclave.png){ width="200" align=left }](http://ctf.thehackerconclave.es/)  
     **比赛名称** : [The Hacker Conclave](http://ctf.thehackerconclave.es/)  
@@ -185,7 +189,7 @@ comments: true
     **比赛名称** : [CyberSci Nationals 2024](https://cybersecuritychallenge.ca/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-06-21 20:00:00 - 2024-06-23 06:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 0.00  
     **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
     **添加日历** : https://ctftime.org/event/2366.ics  
     
@@ -302,7 +306,7 @@ comments: true
     **比赛名称** : [Akasec CTF 2024](https://ctf.akasec.club/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-06-07 21:37:00 - 2024-06-09 21:37:00 UTC+8  
-    **比赛权重** : 22.83  
+    **比赛权重** : 22.92  
     **赛事主办** : Akasec (https://ctftime.org/team/107202)  
     **添加日历** : https://ctftime.org/event/2222.ics  
     
@@ -320,7 +324,7 @@ comments: true
     **比赛名称** : [N0PSctf](https://ctf.nops.re/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-06-01 16:00:00 - 2024-06-03 04:00:00 UTC+8  
-    **比赛权重** : 24.21  
+    **比赛权重** : 24.23  
     **赛事主办** : NOPS (https://ctftime.org/team/4056)  
     **添加日历** : https://ctftime.org/event/2358.ics  
     
@@ -1007,22 +1011,4 @@ comments: true
     **比赛权重** : 26.98  
     **赛事主办** : Contagion (https://ctftime.org/team/152691)  
     **添加日历** : https://ctftime.org/event/2291.ics  
-    
-??? Quote "[AmateursCTF 2024](https://ctf.amateurs.team/)"  
-    [![](https://ctftime.org/media/events/2d6bd602-ecce-47e6-8f53-b352af222287.915ceb9574bb9759b4dd16bf8a744d25_1.jpeg){ width="200" align=left }](https://ctf.amateurs.team/)  
-    **比赛名称** : [AmateursCTF 2024](https://ctf.amateurs.team/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-05 22:00:00 - 2024-04-10 11:00:00 UTC+8  
-    **比赛权重** : 24.54  
-    **赛事主办** : les amateurs (https://ctftime.org/team/166729)  
-    **添加日历** : https://ctftime.org/event/2226.ics  
-    
-??? Quote "[BelkaCTF #6](https://belkasoft.com/belkactf6/)"  
-    [![](https://ctftime.org/media/events/belkactf6_square.jpg){ width="200" align=left }](https://belkasoft.com/belkactf6/)  
-    **比赛名称** : [BelkaCTF #6](https://belkasoft.com/belkactf6/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-05 21:00:00 - 2024-04-07 21:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : TODO: security (https://ctftime.org/team/288184)  
-    **添加日历** : https://ctftime.org/event/2326.ics  
     
